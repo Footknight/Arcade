@@ -651,7 +651,7 @@ PlayerSettings:
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: 548250db-cbe9-4638-a1c1-5bf5607b0e81
-  projectName: New Unity Project
+  projectName: Arcade
   organizationId: footknight
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
