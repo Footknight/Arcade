@@ -1,0 +1,847 @@
+fileFormatVersion: 2
+guid: 986f8672d22bcd84ba7bdcda2d3c3462
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8319832141941282286
+    second: HotDog
+  - first:
+      213: -4943385133970860613
+    second: Ketchup
+  - first:
+      213: 7558264416020233661
+    second: Mustard
+  - first:
+      213: -7558894161909307506
+    second: BunFull
+  - first:
+      213: -6613821117558299724
+    second: Relish
+  - first:
+      213: -8392186817619457054
+    second: BunEmpty
+  - first:
+      213: -2599027897784185968
+    second: GreenSteel
+  - first:
+      213: 60948842949250262
+    second: BlueSteel
+  - first:
+      213: -4822561854172991967
+    second: RedSteel
+  - first:
+      213: 2520294457541168292
+    second: Can
+  - first:
+      213: -1640726015465197170
+    second: HotDogGameSpriteSheet_10
+  - first:
+      213: -7091569861187825690
+    second: HotDogGameSpriteSheet_11
+  - first:
+      213: 3022132766612115777
+    second: HotDogGameSpriteSheet_12
+  - first:
+      213: 2489878321080602902
+    second: HotDogGameSpriteSheet_13
+  - first:
+      213: 8259886008158030253
+    second: HotDogGameSpriteSheet_14
+  - first:
+      213: 5313933952891829635
+    second: HotDogGameSpriteSheet_15
+  - first:
+      213: -8559957059123147399
+    second: HotDogGameSpriteSheet_16
+  - first:
+      213: -309126708726585298
+    second: HotDogGameSpriteSheet_17
+  - first:
+      213: 5768126889601969576
+    second: HotDogGameSpriteSheet_18
+  - first:
+      213: -4242741964189245462
+    second: HotDogGameSpriteSheet_19
+  - first:
+      213: 4702730165338652778
+    second: HotDogGameSpriteSheet_20
+  - first:
+      213: -7500612234812587199
+    second: HotDogGameSpriteSheet_21
+  - first:
+      213: -6577836902439806567
+    second: HotDogGameSpriteSheet_22
+  - first:
+      213: -4023310820650353578
+    second: HotDogGameSpriteSheet_0
+  - first:
+      213: -9171873506964716163
+    second: HotDogGameSpriteSheet_1
+  - first:
+      213: 3314524096243784179
+    second: HotDogGameSpriteSheet_2
+  - first:
+      213: 3166835810406745397
+    second: HotDogGameSpriteSheet_3
+  - first:
+      213: 2903785134015405208
+    second: HotDogGameSpriteSheet_4
+  - first:
+      213: -5272442188285640215
+    second: HotDogGameSpriteSheet_5
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HotDog
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 566
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee59943b04bf57370800000000000000
+      internalID: 8319832141941282286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ketchup
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 574
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb558bd6961956bb0800000000000000
+      internalID: -4943385133970860613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustard
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 574
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd7c53e07954e860800000000000000
+      internalID: 7558264416020233661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BunFull
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 564
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e872f98fec9691790800000000000000
+      internalID: -7558894161909307506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Relish
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 574
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3e5ff2cbcf634a0800000000000000
+      internalID: -6613821117558299724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BunEmpty
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 564
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb83179d86f88b80800000000000000
+      internalID: -8392186817619457054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenSteel
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 548
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b4e3fa5e56eebd0800000000000000
+      internalID: -2599027897784185968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSteel
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 548
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc067556a888d000800000000000000
+      internalID: 60948842949250262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSteel
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 548
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e6bae6b81d21db0800000000000000
+      internalID: -4822561854172991967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 548
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac802fb472e9f220800000000000000
+      internalID: 2520294457541168292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HotDogGameSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 548
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e817472c168fa39e0800000000000000
+      internalID: -1640726015465197170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HotDogGameSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 548
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef8804b8cea59d90800000000000000
+      internalID: -7091569861187825690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HotDogGameSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 548
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141dbf14db5c0f920800000000000000
+      internalID: 3022132766612115777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HotDogGameSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 548
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61194fd1423dd8220800000000000000
+      internalID: 2489878321080602902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HotDogGameSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da98a79cf8201a270800000000000000
+      internalID: 8259886008158030253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HotDogGameSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d310696c2eeb940800000000000000
+      internalID: 5313933952891829635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HotDogGameSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d0e56486ce43980800000000000000
+      internalID: -8559957059123147399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HotDogGameSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2824cf65e2c5bbf0800000000000000
+      internalID: -309126708726585298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HotDogGameSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adaa1268d08c0050800000000000000
+      internalID: 5768126889601969576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HotDogGameSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef5bde99a0ce15c0800000000000000
+      internalID: -4242741964189245462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HotDogGameSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 466
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6046835b24734140800000000000000
+      internalID: 4702730165338652778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HotDogGameSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 466
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1430c0299e878e790800000000000000
+      internalID: -7500612234812587199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HotDogGameSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 466
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9999e972034d6b4a0800000000000000
+      internalID: -6577836902439806567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HotDogGameSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 515
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c762200245a28c0800000000000000
+      internalID: -4023310820650353578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HotDogGameSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 515
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d754d8cd3a5f6b080800000000000000
+      internalID: -9171873506964716163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HotDogGameSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 515
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9551cba1e8ffd20800000000000000
+      internalID: 3314524096243784179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HotDogGameSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 515
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535c745146cd2fb20800000000000000
+      internalID: 3166835810406745397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HotDogGameSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 450
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c5c09c1315c4820800000000000000
+      internalID: 2903785134015405208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HotDogGameSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 450
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1837ca3c584d6b0800000000000000
+      internalID: -5272442188285640215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
