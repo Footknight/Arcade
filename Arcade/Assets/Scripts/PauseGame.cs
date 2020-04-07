@@ -9,10 +9,13 @@ public class PauseGame : MonoBehaviour
 
     public void ResumeGame()
     {
-        pauseMenu.SetActive(false);
-        Cursor.visible = false;
-        gamePaused = false;
-        Time.timeScale = 1;
+        if (gamePaused == true)
+        {
+            pauseMenu.SetActive(false);
+            Cursor.visible = false;
+            gamePaused = false;
+            Time.timeScale = 1;
+        }
     }
 
     // Update is called once per frame
