@@ -1,0 +1,44 @@
+To Do:
+-------
+- Implement 1-2 more styles of arcade cabinets.
+- Chess set on games table, possibly other games as well
+- Board games on shelves
+- Game consoles on entertainment centre below big TV
+- Scrolling ads on the big TV
+
+Future Concepts to Consider:
+-----------------------------
+- Board game shelves will contain various table games for single and multiple players
+- Could have 2 or 3 cabinets that share the same game allowing for multiple players in same game instance
+- Players can use the bar area to buy cosmetic accessories for their avatar. These could include:
+	- Character held items:
+		- Drinks
+		- Phones/Handheld Games
+		- Toys related to available games
+	- Clothing
+		- Game themed shirts, pants, shoes, hats
+		- Game themed backpacks
+		- Solid colour options
+	- Avatar Special Effects
+		- Glowing spotlight
+		- Glitter/shiny sparkes
+		- Confetti
+		- "WINNER!" above player's head
+- Upon setting a new high-score, the big TV could display the player and the game associated.
+- Speakers for announcements, including high-scores/broken records.
+- Player who just achieved a high-score or other achievement could have a temporary avatar effect saying such.
+- Interacting with the big TV could show UIs for high-scores, player stats and the like. 
+- Friends list, could be accessed through the big TV or a handheld device.
+- Friends list for inviting players to games, chatting etc.
+- The Arcade could be hosted as instances on servers. Players can create their own Arcade instance amongst friends or join crowded public ones.
+- Lobby-style Arcade instances, players are placed into one of these by default. Can support larger number of players, makes highscores harder to achieve etc.
+- Reward system
+	- Tokens to play games, can be purchased from the Bar, (perhaps with real money, otherwise they're earned over time)
+	- Tokens could also be earned by getting achievements/breaking high scores
+	- Rare avatar items
+	- Game Perks
+		- Items/Power-ups
+		- Level Skips
+		- Instant Replay (making quick save points, like in an emulator)
+- Player Inventory System
+- Trading System (Cosmetic Items, Game Perks? Tokens?)
