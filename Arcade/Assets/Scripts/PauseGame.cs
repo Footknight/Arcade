@@ -7,17 +7,6 @@ public class PauseGame : MonoBehaviour
     public bool gamePaused = false;
     public GameObject pauseMenu;
 
-    public void ResumeGame()
-    {
-        if (gamePaused == true)
-        {
-            pauseMenu.SetActive(false);
-            Cursor.visible = false;
-            gamePaused = false;
-            Time.timeScale = 1;
-        }
-    }
-
     // Update is called once per frame
     void Update()
     {
@@ -38,5 +27,12 @@ public class PauseGame : MonoBehaviour
                 Time.timeScale = 1;
             }
         }
+    }
+    public void ResumeGame()
+    {
+        pauseMenu.SetActive(false);
+        Cursor.visible = false;
+        gamePaused = false;
+        Time.timeScale = 1;
     }
 }

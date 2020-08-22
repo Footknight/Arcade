@@ -12802,7 +12802,6 @@ GameObject:
   - component: {fileID: 647222727}
   - component: {fileID: 647222726}
   - component: {fileID: 647222725}
-  - component: {fileID: 647222729}
   m_Layer: 5
   m_Name: CanvasObject
   m_TagString: Untagged
@@ -12890,18 +12889,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
---- !u!114 &647222729
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 647222724}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 87fcf4695c9babd4da7bf0c155bfbd9e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &648458135
 GameObject:
   m_ObjectHideFlags: 0
@@ -47389,6 +47376,11 @@ PrefabInstance:
       propertyPath: m_Colors.m_PressedColor.r
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2967408517246884208, guid: 6320affe6a010c34e9d57bacfbcf7ca3,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: BackToMain
+      objectReference: {fileID: 0}
     - target: {fileID: 2967408517604506892, guid: 6320affe6a010c34e9d57bacfbcf7ca3,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -47603,6 +47595,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Color.b
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2967408518836810010, guid: 6320affe6a010c34e9d57bacfbcf7ca3,
+        type: 3}
+      propertyPath: m_Text
+      value: Exit to Main Menu
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6320affe6a010c34e9d57bacfbcf7ca3, type: 3}
