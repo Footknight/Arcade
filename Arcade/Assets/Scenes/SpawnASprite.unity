@@ -312,9 +312,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fbb77d9d56fcc6747b9d7518cce48cb5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Dice: {fileID: 739330617916623377, guid: 96380433dc67a9842a6c9b02a960e448, type: 3}
-  ShinyDice: {fileID: 2630171402951899828, guid: efd976bece9ddb2478bfa7db63753197,
-    type: 3}
+  Dice:
+  - {fileID: 157853592028233881, guid: fe796a28df5ee694e9f7208e769b9cd2, type: 3}
+  - {fileID: 1327309479245437157, guid: 9eaf788b6a60fd44ebfb6ebc637fa062, type: 3}
+  - {fileID: 3816985809599567665, guid: 8e20af910ad39be4abbec18247de4597, type: 3}
+  - {fileID: 6513560219101882105, guid: fbb3038de43f18243bec784527e7d595, type: 3}
+  - {fileID: 8702541149244826464, guid: a7d356f33adeb9d4585b3d77b684635b, type: 3}
+  - {fileID: 2891856843330352273, guid: bf43e62f77761fd4697309454fb8b8d2, type: 3}
+  ShinyDice:
+  - {fileID: 7757419386565984122, guid: 0f55b6fe240d974439c4385a409d5983, type: 3}
+  - {fileID: 4841440402464522532, guid: ac224d03ded37c741886dd4536b888da, type: 3}
+  - {fileID: 549935293972653230, guid: 8a50b5ff3ad61c743bd42c6d8f207c4d, type: 3}
+  - {fileID: 6741014057535961817, guid: 2289ed0d54a72c84c8adfabe4ba48293, type: 3}
+  - {fileID: 5205853752980620449, guid: 4dd0d0b032e57f04095b9b27a9f3d948, type: 3}
+  - {fileID: 3095584093954037392, guid: 3af8f2d04b342d54b8db28e6bd78169a, type: 3}
 --- !u!1 &492833602
 GameObject:
   m_ObjectHideFlags: 0

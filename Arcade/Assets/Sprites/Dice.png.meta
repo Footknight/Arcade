@@ -4,10 +4,79 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: -2205863333093305225
-    second: Dice_Normal
+    second: Dice_Normal_Six
   - first:
       213: -5420220854288092238
     second: Dice_Shiny
+  - first:
+      213: 1094064525842813209
+    second: Dice_Normal_Five
+  - first:
+      213: 7934114944782325874
+    second: Dice_Normal_Four
+  - first:
+      213: -880043905950401250
+    second: Dice_Normal_Three
+  - first:
+      213: -5478230469006044976
+    second: Dice_Normal_Two
+  - first:
+      213: 7117374334740126191
+    second: Dice_Normal_One
+  - first:
+      213: -6410303501983237080
+    second: Dice_Shiny_Six
+  - first:
+      213: -8053204136770872448
+    second: Dice_Shiny_Five
+  - first:
+      213: -3560952307692738738
+    second: Dice_Shiny_Four
+  - first:
+      213: -6648859303040462484
+    second: Dice_Shiny_Three
+  - first:
+      213: 3282545307758962925
+    second: Dice_Shiny_Two
+  - first:
+      213: 8124078894345868563
+    second: Dice_Shiny_One
+  - first:
+      213: -6480047715335917942
+    second: Dice_Normal_Six
+  - first:
+      213: 4849611452462815001
+    second: Dice_Normal_Five
+  - first:
+      213: 5016874113398615342
+    second: Dice_Normal_Four
+  - first:
+      213: -3233264441083408752
+    second: Dice_Normal_Three
+  - first:
+      213: -4756859172444844325
+    second: Dice_Normal_Two
+  - first:
+      213: -8595413723762772547
+    second: Dice_Normal_One
+  - first:
+      213: -4762284264343605180
+    second: Dice_Shiny_Six
+  - first:
+      213: -6482616401119840426
+    second: Dice_Shiny_Four
+  - first:
+      213: -3197052169655099972
+    second: Dice_Shiny_Two
+  - first:
+      213: -924121861839946771
+    second: Dice_Shiny_One
+  - first:
+      213: -908637602413502502
+    second: Dice_Shiny_Three
+  - first:
+      213: 3425717544766444007
+    second: Dice_Shiny_Five
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -38,7 +107,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -143,7 +212,91 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Dice_Normal
+      name: Dice_Normal_Six
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e22d78fee3216a0800000000000000
+      internalID: -6480047715335917942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dice_Normal_Five
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91756b2fbe74d4340800000000000000
+      internalID: 4849611452462815001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dice_Normal_Four
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d2af3fc648f9540800000000000000
+      internalID: 5016874113398615342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dice_Normal_Three
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e42541f132123d0800000000000000
+      internalID: -3233264441083408752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dice_Normal_Two
       rect:
         serializedVersion: 2
         x: 0
@@ -157,17 +310,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7741ae75cf23361e0800000000000000
-      internalID: -2205863333093305225
+      spriteID: bdecddb19cd3cfdb0800000000000000
+      internalID: -4756859172444844325
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dice_Shiny
+      name: Dice_Normal_One
       rect:
         serializedVersion: 2
-        x: 68
+        x: 64
         y: 0
         width: 64
         height: 64
@@ -178,8 +331,134 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b37effb9d187c4b0800000000000000
-      internalID: -5420220854288092238
+      spriteID: db53a9932c4f6b880800000000000000
+      internalID: -8595413723762772547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dice_Shiny_Six
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440fd5871b7f8edb0800000000000000
+      internalID: -4762284264343605180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dice_Shiny_Four
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6577124cabe1906a0800000000000000
+      internalID: -6482616401119840426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dice_Shiny_Two
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdd05b8df9c1a3d0800000000000000
+      internalID: -3197052169655099972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dice_Shiny_One
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb7bd7101cdc23f0800000000000000
+      internalID: -924121861839946771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dice_Shiny_Three
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf949e2aeed363f0800000000000000
+      internalID: -908637602413502502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dice_Shiny_Five
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e190ace4f79a8f20800000000000000
+      internalID: 3425717544766444007
       vertices: []
       indices: 
       edges: []
